@@ -1,9 +1,9 @@
 # Malware Analysis
 
 ## Team
-- Atharva Tikale (2022BCS-010)
-- Utsav Jhanwar (2022BCS-069)
-- Varun Kumar (2022BCS-071)
+- Atharva Tikale 
+- Utsav Jhanwar 
+- Varun Kumar 
 
 ## Project Statement
 This project aims to develop a malware sample from scratch, analyze it using various tools, and study the suspicious behavior it exhibits. The objective is to understand its execution and detection mechanisms.
